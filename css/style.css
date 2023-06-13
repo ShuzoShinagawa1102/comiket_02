@@ -302,6 +302,17 @@ footer .pr {
 	display: block;
 	font-size: 80%;
 }
+.sns-btn{
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	}
+.sns-btn li{
+	width: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
 
 /*トップページ内「更新情報・お知らせ」ブロック
 ---------------------------------------------------------------------------*/
